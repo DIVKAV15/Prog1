@@ -5,7 +5,7 @@
 ## Term 1
 ### Etch-A-Scetch
 Graphics project with keypress drawing controls with the ability to save an image
-![Running App] ()
+![Running App]()
 [Source Code]()
 
 ## Term 2
